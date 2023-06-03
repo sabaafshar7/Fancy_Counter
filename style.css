@@ -28,6 +28,10 @@ body {
   align-items: center;
 }
 
+.counter--limit {
+  background-color: #a3d11b;
+}
+
 .countainer__title {
   text-align: center;
   width: 200px;
